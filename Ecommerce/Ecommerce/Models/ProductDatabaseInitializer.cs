@@ -63,7 +63,7 @@ namespace Ecommerce.Models
                     ProductName = "Old-time Car",
                     Description = "There's nothing old about this toy car, except it's looks. Compatible with other old toy cars.",
                     ImagePath="carearly.png",
-                    UnitPrice = 15.95,
+                    UnitPrice = 15.99,
                      CategoryID = 1
                },
                 new Product
